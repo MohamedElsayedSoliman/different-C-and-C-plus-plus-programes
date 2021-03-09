@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605836287 source:c:\users\mody_\onedrive\desktop\codeblocks files\set avg min max\main.c
+	<stdio.h>
+	<stdlib.h>
+
